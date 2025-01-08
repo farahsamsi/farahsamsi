@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/farahsamsi/farahsamsi/blob/main/FarahSamsiProme.png"  />
+  <img height="640" src="https://github.com/farahsamsi/farahsamsi/blob/main/FarahSamsiProme.png"  />
 </div>
 
 ###
