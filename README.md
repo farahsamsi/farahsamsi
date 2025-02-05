@@ -70,7 +70,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farahsamsi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=farahsamsi&theme=dark" alt="GitHub Streak">
+</a>
+<!--   <img src="https://streak-stats.demolab.com?user=farahsamsi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farahsamsi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
