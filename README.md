@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" src="https://github.com/farahsamsi/farahsamsi/blob/main/FarahSamsiProme.png"  />
+  <img width="1200" src="https://github.com/farahsamsi/farahsamsi/blob/main/FarahSamsiPromeDev.png"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Farah Samsi Prome from Dhaka, Bangladesh.<br><br>- 🔭 Frontend Web Developer<br>-  🌐 Passionate about crafting interactive and visually stunning web experiences.<br>-  💻 Skills: HTML, CSS, JavaScript, React, React Router, MongoDB.<br>-  📚 Constant learner | Student at Programming Hero 🚀<br>-  🎯 Currently working on Restaurant Menu website and exploring the MERN stack.<br>-  🌟 Love solving problems, building clean UIs, and bringing designs to life.<br><br>-  📩 Reach me: https://portfolio-farah.netlify.app<br>-  📖 Fun fact: I’d love to live inside a library! 📚</p>
+<p align="left">I'm Farah Samsi Prome from Dhaka, Bangladesh.<br><br>- 🔭 Web Developer<br>-  🌐 Passionate about crafting interactive and visually stunning web experiences.<br>-  💻 Skills: HTML, CSS, JavaScript, React, React Router, MongoDB.<br>-  📚 Constant learner | Student at Programming Hero 🚀<br>-  🎯 Currently working on Restaurant Menu website and exploring the MERN stack.<br>-  🌟 Love solving problems, building clean UIs, and bringing designs to life.<br><br>-  📩 Reach me: https://portfolio-farah.netlify.app<br>-  📖 Fun fact: I’d love to live inside a library! 📚</p>
 
 ###
 
